@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+watchtower.db
+watchtower.db-shm
+watchtower.db-wal
+rollback_data/
+.venv/
+.env
+.env.*
+!.env.example
+*.log
+WatchTower-Activity-*.pdf
